@@ -1,3 +1,5 @@
+> **Moved:** this code now lives in https://github.com/fberkehan/orion/tree/v1 (this repository is archived).
+
 # Fuber AI v1
 
 A local-first personal AI assistant for the Windows desktop. Fuber AI keeps your memory and chats on your own computer, works with your files,
